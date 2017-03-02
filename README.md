@@ -3,18 +3,18 @@
 ### Skills for this project (please check off the skills the student covered during this project):
 
 **HTML**
- 1. [ ] html tags
- 2. [ ] head tags
- 3. [ ] body tags
- 4. [ ] h & p tags
- 5. [ ] indentation
+ 1. [x ] html tags
+ 2. [ x] head tags
+ 3. [x ] body tags
+ 4. [ x] h & p tags
+ 5. [ x] indentation
 
 **CSS**
-  1. [ ] bg color
-  2. [ ] text align
-  3. [ ] font color
-  4. [ ] font size
-  5. [ ] px
+  1. [x ] bg color
+  2. [x ] text align
+  3. [ x] font color
+  4. [x ] font size
+  5. [ x] px
 
 **Dev Tools**
   1. [ ] code editors & IDEs
